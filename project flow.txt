@@ -5,3 +5,4 @@
 5. now do "mkdir s3" (creates a new s3 directory)
 6. now we do "dvc remote add -d myremote s3"
 7. next "dvc add data/" 
+8. mow "dvc commit" and "dvc push"
