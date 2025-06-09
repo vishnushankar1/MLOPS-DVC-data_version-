@@ -6,3 +6,4 @@
 6. now we do "dvc remote add -d myremote s3"
 7. next "dvc add data/" 
 8. mow "dvc commit" and "dvc push"
+9. now we are going to make in the data to add new row in the data
