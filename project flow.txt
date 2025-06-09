@@ -1,2 +1,7 @@
 1. create a git repo and clone it in local
 2. create a mycode.py and add code in it.
+3. to install DVC `pip install dvc`
+4. now  we do "dvc init" (creates , dvc ignore, dvc)
+5. now do "mkdir s3" (creates a new s3 directory)
+6. now we do "dvc remote add -d myremote s3"
+7. next "dvc add data/" 
